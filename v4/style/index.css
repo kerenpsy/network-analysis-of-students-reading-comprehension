@@ -1,0 +1,119 @@
+body {
+    /* background-color: #dfd8be; */
+    font-size: 24px;
+    font-family: 'SimSun';
+}
+
+.jspsych-display-element {
+    font-size: 24px;
+    font-family: 'SimSun';
+}
+
+.aTitle {
+    margin-top: 100px;
+    color: #333;
+    font-family: 'SimHei'
+}
+
+.aContent {
+    color: #333;
+    font-family: 'SimHei';
+    text-align:left
+}
+
+textarea {
+    font-size: 24px;
+    line-height: 45px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    resize: both;
+}
+
+.redT {
+    color: red;
+}
+
+.blueT {
+    color: #1890ff;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb66 {
+    margin-bottom: 66px;
+}
+
+.jspsych-survey-multi-choice-question {
+    margin-left: 10%;
+    font-size: 24px;
+}
+
+.jspsych-survey-likert-statement {
+    font-size: 24px !important;
+    margin-bottom: 15px !important;
+}
+
+.jspsych-survey-likert-opts {
+    width: 35% !important;
+    font-size: 20px !important;
+}
+
+input[type="radio"] {
+    transform: scale(1.5);
+}
+
+.jspsych-btn {
+    margin: 50px 0 !important;
+    padding: 6px 20px !important;
+    font-size: 20px !important;
+    border-radius: 8px !important;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid lightgray;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* 样式可以根据你的需求进行调整 */
+#toggleArticleBtn {
+    display: none; /* 初始状态下隐藏按钮 */
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#article {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f7f7f7;
+    padding: 20px;
+    max-width: 80%;
+    max-height: 80%;
+    overflow-y: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); /* 增加阴影的模糊度和扩散度，使其更立体 */
+    border-radius: 10px;
+    border: 1px solid #ccc; /* 添加边框，使其更显立体 */
+}
