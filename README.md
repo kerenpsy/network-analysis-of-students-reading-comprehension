@@ -16,8 +16,11 @@
 ## 测验流程
 
 ### 1. 登录与前测
-- 启动程序后，您将看到一个登录界面，请根据提示输入必要的信息。
-- 登录后，学生将进行前测，以评估其初始阅读理解水平。
+- 启动程序后，您将看到一个登录界面，请根据提示输入必要的信息。<img width="929" alt="截屏2024-07-31 10 03 08" src="https://github.com/user-attachments/assets/bc6b16bc-8342-4556-be38-cf13cdf12c94">
+<img width="907" alt="截屏2024-07-31 10 03 25" src="https://github.com/user-attachments/assets/c577ef00-5189-4fc2-9774-fee5fa7993e1">
+
+- 登录后，学生将进行前测，以评估其初始阅读理解水平和任务理解情况。<img width="555" alt="截屏2024-07-31 10 04 14" src="https://github.com/user-attachments/assets/08aa5b9f-6c19-412c-a062-afb879e4bf6a">
+<img width="869" alt="截屏2024-07-31 10 04 41" src="https://github.com/user-attachments/assets/3788a748-1dd9-4a81-b525-84011096be10">
 
 ### 2. 文章阅读
 - 前测完成后，程序将首先展示说明文，学生需要仔细阅读。
